@@ -1,5 +1,6 @@
-目前進度：現在能確實以.env存取私密variable並執行到成功登入。
-Present progress: I have successfully use .env to store private data and login.
+本專案仍為個人測試自動下載圖片器，若工具都允許的話，預計未來設計成可以讓任何人自由使用的執行檔。
+This project is a personal test for automatically downloading images from pixiv. It can not yet be used for other people.  
 
-下次目標：希望可以成功下載第一頁第一張圖的原始大小檔案。
-Next target: Downloading the first original size image in first page. 
+2021/7/20 GMT + 8. 10:00pm -  可成功登入、在第二分頁開啟第一張圖片網址。 
+                              Can login in Pixiv successfully, and open the link of the first image in first page on secoond tab.
+                      
