@@ -67,6 +67,8 @@ driver.get(href)
 
 #結束關視窗
 driver.close()
+driver.switch_to.window(driver.window_handles[0])
+driver.close()
 
 
 
